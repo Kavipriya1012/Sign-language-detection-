@@ -1,2 +1,1 @@
-# Sign-language-detection-
-Project for language detection 
+# sign_language_detection
